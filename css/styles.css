@@ -65,3 +65,7 @@ body {
     position: absolute;
     bottom: 0px;
 }
+
+>modalButton{
+    float:left;
+}
